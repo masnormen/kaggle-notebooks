@@ -12,7 +12,7 @@ I hope to learn more about data visualization and predictive analysis. I appreci
 
 - ## [📖&nbsp;&nbsp;Early Stage Diabetes Risk Prediction](https://www.kaggle.com/masnormen/early-stage-diabetes-risk-prediction/)  
   ### 🐍&nbsp;&nbsp;Python | [📑&nbsp;&nbsp;Dataset source](https://www.kaggle.com/ishandutta/early-stage-diabetes-risk-prediction-dataset) | [:octocat:&nbsp;&nbsp;GitHub Link](/early-stage-diabetes-risk-prediction.ipynb)
-  Last run time: 2020-10-29 09:40:17
+  Last run time: 2020-10-31 14:21:05
 - ## [📖&nbsp;&nbsp;IMDB's Indonesian Movies Exploratory Data Analysis](https://www.kaggle.com/masnormen/imdb-s-indonesian-movies-exploratory-data-analysis/)  
   ### 🐍&nbsp;&nbsp;Python | [📑&nbsp;&nbsp;Dataset source](https://www.kaggle.com/dionisiusdh/imdb-indonesian-movies) | [:octocat:&nbsp;&nbsp;GitHub Link](/imdb-s-indonesian-movies-exploratory-data-analysis.ipynb)
   Last run time: 2020-10-28 08:03:27
