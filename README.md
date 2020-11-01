@@ -1,4 +1,4 @@
-# Kaggle Notebooks Dicrctory
+# Kaggle Notebooks Directory
 
 ### by: Nourman Hajar
 
