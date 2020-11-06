@@ -12,6 +12,9 @@ I hope to learn more about data visualization and predictive analysis. I appreci
 
 <!--kagglit-start-->
 
+- ## [📑&nbsp;&nbsp;An Insight about Student Performance in 2 Subjects &rarr;](https://www.kaggle.com/masnormen/an-insight-about-student-performance-in-2-subjects/)  
+  ### 🐍&nbsp;&nbsp;Lang: Python | [📈&nbsp;&nbsp;Dataset source](https://www.kaggle.com/ishandutta/student-performance-data-set) | [:octocat:&nbsp;&nbsp;GitHub link](/an-insight-about-student-performance-in-2-subjects.ipynb)
+  Last run time: 2020-11-05 03:52:49 UTC
 - ## [📑&nbsp;&nbsp;IMDB's Indonesian Movies Exploratory Data Analysis &rarr;](https://www.kaggle.com/masnormen/imdb-s-indonesian-movies-exploratory-data-analysis/)  
   ### 🐍&nbsp;&nbsp;Lang: Python | [📈&nbsp;&nbsp;Dataset source](https://www.kaggle.com/dionisiusdh/imdb-indonesian-movies) | [:octocat:&nbsp;&nbsp;GitHub link](/imdb-s-indonesian-movies-exploratory-data-analysis.ipynb)
   Last run time: 2020-11-01 02:24:57 UTC
